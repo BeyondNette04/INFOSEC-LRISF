@@ -1,13 +1,35 @@
 # INFOSEC-Important-Information!
+----
 
-# ISO
-https://www.iso.org/standards.html
+# 🌍ISO 27001
+
+https://www.manageengine.com/products/desktop-central/iso-27001-compliance.html
+
+**Type**: International standard
+
+**Who it applies to**: Any organization (voluntary certification)
+
+**Focus**: Information Security Management System (ISMS)
+
+**What it cares about**
+
+- Policies & procedures
+
+- Risk management
+
+- Asset classification
+
+- Access control
+
+- Incident management
+
+- Continuous improvement
 
 ---
 
-# NIST Cybersecurity Framework
+# 🇺🇸NIST Cybersecurity Framework
 
-https://www.nist.gov/
+https://www.manageengine.com/products/desktop-central/nist-compliance.html
 
 **Type**: Framework 
 
@@ -15,7 +37,7 @@ https://www.nist.gov/
 
 **Focus**: Managing cyber risk
 
-Core functions
+**Core functions**
 
 - Identify
 
@@ -29,7 +51,7 @@ Core functions
 
 ---
 
-# NIST SP 800-53
+# 🇺🇸NIST SP 800-53
 
 **Type**: Control catalog
 
@@ -39,16 +61,55 @@ Core functions
 
 ---
 
-# HIPAA (Health Insurance Portability and Accountability Act)
+# 🏥HIPAA (Health Insurance Portability and Accountability Act)
 
+https://www.manageengine.com/products/desktop-central/hipaa-compliance.html
+
+**Type**: U.S. law
+
+**Who it applies to**: Healthcare organizations & vendors
+
+**Protects**: PHI (Protected Health Information)
+
+**What it cares about**
+
+- Confidentiality, integrity, availability of health data
+
+- Access controls (least privilege)
+
+- Audit logs
+
+- Encryption (in transit & at rest)
+
+- Incident response & breach notification
 
 ---
 
-# PCI-DSS
+# 💳PCI-DSS
+
+https://www.manageengine.com/products/desktop-central/pci-dss-compliance.html
+
+**Type**: Industry standard
+
+**Who it applies to**: Any org that stores, processes, or transmits card data
+
+**Protects**: Cardholder data
+
+**What it cares about**
+
+- Network segmentation
+
+- Encryption
+
+- Strong access control
+
+- Logging & monitoring
+
+- Regular vulnerability scanning
 
 ---
 
-# GDPR (General Data Protection Regulation)
+# 🇪🇺GDPR (General Data Protection Regulation)
 
 https://gdpr-info.eu/
 
@@ -69,10 +130,10 @@ https://gdpr-info.eu/
 - Breach notification (72 hours)
 
 - Privacy by design
-- 
+
 ---
 
-# GLBA (Gramm-Leach Bliley Act)
+# 🏦GLBA (Gramm-Leach Bliley Act)
 
 https://www.ftc.gov/business-guidance/privacy-security/gramm-leach-bliley-act
 
