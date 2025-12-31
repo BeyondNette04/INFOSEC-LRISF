@@ -1,4 +1,4 @@
-# INFOSEC-LRISF
+# INFOSEC-LRISF📈
 
 <p align="left">
   <img src="https://img.shields.io/badge/GRC-orange" />
