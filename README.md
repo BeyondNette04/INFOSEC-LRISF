@@ -53,6 +53,8 @@ https://www.manageengine.com/products/desktop-central/nist-compliance.html
 
 # 🇺🇸NIST SP 800-53
 
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf
+
 **Type**: Control catalog
 
 **Who it applies to**: U.S. federal systems & contractors
